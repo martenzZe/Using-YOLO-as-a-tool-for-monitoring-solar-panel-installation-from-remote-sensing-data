@@ -2,4 +2,6 @@
 
 This repository contain all the necessary information and files to become familiar with the work I have done on this project. 
 Please refer to the projet_code file  for further details about my code.
-For the report you can go to the
+For the report you can go to the project_report_MK pdf file. 
+
+Additional information about results can be found in the runs folder
